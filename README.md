@@ -6,8 +6,7 @@ Hack and security
 - Hacking Exposed 7: Network Security Secrets and Solutions
 by Stuart McClure, Joel Scambray, et al. | Aug 1, 2012
 
-![image](https://user-images.githubusercontent.com/916663/151279626-91efe737-fd01-4be4-a3bf-79cfebfba8a4.png | width=100)
-
+<img src="https://user-images.githubusercontent.com/916663/151279626-91efe737-fd01-4be4-a3bf-79cfebfba8a4.png" width="400">
 
 - The Art of Deception: Controlling the Human Element of Security Paperback – October 17, 2003
 by Kevin D. Mitnick, William L. Simon
