@@ -24,6 +24,10 @@ by Simson Garfinkel, Gene Spafford, et al. | Mar 18, 2003
 
 <img src="https://user-images.githubusercontent.com/916663/151280997-247159b7-1c76-4b3a-9094-f65b3b55539f.png" width="300">
 
+- The Hacker Crackdown: Law and Disorder on the Electronic Frontier by Bruce Sterling - 1994
+
+<img src="https://www.gutenberg.org/cache/epub/101/pg101.cover.medium.jpg" width="300">
+
 Aprender profundamente:
 - Linux
 - Internet e rede (TCP/IP)
