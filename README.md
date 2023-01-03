@@ -24,6 +24,12 @@ by Simson Garfinkel, Gene Spafford, et al. | Mar 18, 2003
 
 <img src="https://user-images.githubusercontent.com/916663/151280997-247159b7-1c76-4b3a-9094-f65b3b55539f.png" width="300">
 
+Aprender profundamente:
+- Linux
+- Internet e rede (TCP/IP)
+- Programação
+- Shell Script (Linux/Bash)
+
 Mais em:
 
 - https://www.guru99.com/best-ethical-hacking-books.html
