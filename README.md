@@ -1,6 +1,8 @@
 # FESA-HACK-SECURITY
 Hack and security
 
+Livros para iniciar na arte do hack
+
 ### Books
 
 - Hacking Exposed 7: Network Security Secrets and Solutions
@@ -21,3 +23,11 @@ by Simson Garfinkel, Gene Spafford, et al. | Mar 18, 2003
 - The Black Swan: Second Edition: The Impact of the Highly Improbable: With a New Section: "On Robustness and Fragility" – 11 maio 2010
 
 <img src="https://user-images.githubusercontent.com/916663/151280997-247159b7-1c76-4b3a-9094-f65b3b55539f.png" width="300">
+
+Mais em:
+
+- https://www.guru99.com/best-ethical-hacking-books.html
+- https://www.infosecademy.com/best-hacking-books/
+- https://hackr.io/blog/best-hacking-books
+
+PS: Não confunda os termos [hacker](https://en.wikipedia.org/wiki/Hacker) e [cracker](https://en.wikipedia.org/wiki/Security_hacker)!
