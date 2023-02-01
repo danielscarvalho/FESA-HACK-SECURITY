@@ -28,6 +28,10 @@ by Simson Garfinkel, Gene Spafford, et al. | Mar 18, 2003
 
 <img src="https://www.gutenberg.org/cache/epub/101/pg101.cover.medium.jpg" width="300">
 
+- Hacking: The Art of Exploitation by Jon Erickson
+
+<img src="https://m.media-amazon.com/images/I/61BVSCejVSL._SX260_.jpg" width="300">
+
 Aprender profundamente:
 - Linux
 - Internet e rede (TCP/IP)
