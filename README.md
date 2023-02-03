@@ -1,6 +1,8 @@
 # FESA-HACK-SECURITY
 Hack and security
 
+<img src="https://pbs.twimg.com/media/FoCerhTWYAAHZ7M?format=jpg&name=medium" width="300px">
+
 Livros para iniciar na arte do hack
 
 ### Books
