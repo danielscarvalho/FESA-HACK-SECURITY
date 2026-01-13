@@ -34,6 +34,10 @@ by Simson Garfinkel, Gene Spafford, et al. | Mar 18, 2003
 
 <img src="https://m.media-amazon.com/images/I/61BVSCejVSL._SX260_.jpg" width="300">
 
+- Protecting Networks with SATAN by Martin Freiss
+
+<img src="https://m.media-amazon.com/images/I/51cqsp+CmLL.jpg" width="300">
+
 - 2600 magazine (Periodic): https://www.2600.com/
 
 <img src="https://cdn.shopify.com/s/files/1/0837/3445/products/39-3-Cover1-small_large.png?v=1668063771" width="300px">
